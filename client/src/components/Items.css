@@ -1,0 +1,9 @@
+.productComponent {
+    height: 200px;
+    width: 300px;
+    border: 1px solid lightgray;
+    display: grid;
+    margin-top: 0%;
+    flex-direction: column;
+    padding: 3% 3% 3% 3%;
+}
